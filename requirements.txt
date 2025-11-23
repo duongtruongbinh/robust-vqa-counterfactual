@@ -1,0 +1,11 @@
+# Core dependencies
+torch>=1.4.0
+torchvision>=0.5.0
+numpy>=1.16.5
+tqdm>=4.35.0
+click>=7.0
+h5py>=2.10.0
+
+# Optional dependencies
+wandb>=0.18.7  # For experiment tracking (optional)
+
